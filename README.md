@@ -1,10 +1,10 @@
 # Machine-Learning
-This repository contains various Machine Learning Models I tried to solve corresponding Problems
-Methods include : 
-  Supervised - Unsupervised Machine Learning
-    DecisionTree
-    RandomForest
-    Regression
-    Clustering
-    and so on
+This repository contains various Machine Learning Models I tried to solve corresponding Problems. <br>
+Methods include : <br>
+  Supervised - Unsupervised Machine Learning <br>
+    DecisionTree <br>
+    RandomForest <br>
+    Regression <br>
+    Clustering <br>
+    and so on <br>
 Will keep on adding new Models...
